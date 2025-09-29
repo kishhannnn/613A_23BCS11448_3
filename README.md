@@ -37,20 +37,32 @@ withdrawAmount <= currentBalance (Only if withdrawal should happen)
  
 Sample Test Case 1 
 Input: 
+
 Bob 
+
 123486 
+
 282 
+
 2000 
+
 2500 
+
+
 Output: 
 Insufficient balance 
  
 Sample Test Case 2 
 Input: 
+
 John Doe 
+
 123456 
+
 5000 
+
 1500 
+
 2000 
  
 Output: 
